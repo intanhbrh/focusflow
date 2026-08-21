@@ -290,5 +290,5 @@ furnished to do so.
 
 <div align="center">
   <strong>🧠 Track your mind. Build your best days.</strong><br>
-  <sub>FocusFlow v2.0 · Powered by Claude AI · Built for curious minds</sub>
+  <sub>FocusFlow v2.0 · Built for curious minds</sub>
 </div>
